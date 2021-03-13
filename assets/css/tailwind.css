@@ -151,4 +151,20 @@ body {
   .navbar .menu li a.active {
     box-shadow: 0 -1px 0 #d48f3d inset;
   }
+
+  .navbar .menu li a.active-second {
+    box-shadow: 0 -1px 0 #196fb9 inset;
+  }
+}
+
+@responsive {
+  .lnheight {
+    line-height: 55px;
+  }
+}
+
+@media (max-width: 640px) {
+  .lnheight {
+    line-height: 35px;
+  }
 }
