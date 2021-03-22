@@ -23,7 +23,7 @@ body {
   font-family: "Open Sans", sans-serif !important;
   overflow-x: hidden !important;
   min-height: 100vh;
-  color: #333 !important; 
+  color: #184171 !important; 
 }
 
 .clip-svg {
@@ -94,11 +94,11 @@ body {
 }
 
 .navbar .menu li a:hover {
-  color: #d48f3d;
+  color: #25fde9;
 }
 
 .navbar .menu li a.active {
-  color: #d48f3d;
+  color: #25fde9;
 }
 
 .expand {
@@ -145,11 +145,11 @@ body {
   }
 
   .navbar .menu li a:hover {
-    box-shadow: 0 -1px 0 #d48f3d inset;
+    box-shadow: 0 -1px 0 #25fde9 inset;
   }
 
   .navbar .menu li a.active {
-    box-shadow: 0 -1px 0 #d48f3d inset;
+    box-shadow: 0 -1px 0 #fff9f2 inset;
   }
 
   .navbar .menu li a.active-second {
